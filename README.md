@@ -253,6 +253,8 @@ OK
 }
 ```
 
+### Deployment
+This app is hosted on heroku: https://jsaldossary.herokuapp.com
 
 
 

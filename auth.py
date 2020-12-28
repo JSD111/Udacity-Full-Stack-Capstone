@@ -142,5 +142,3 @@ def requires_auth(permission=''):
     return requires_auth_decorator
 
 #---------------------------------------------------------
-# soruce: https://github.com/udacity/FSND/blob/master/BasicFlaskAuth/app.py
-# source: Lesson 4: Access and Authorization
